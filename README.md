@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rafa, a Physics and CompSci graduate currently working as a Python teacher in Singapore. I'm currently working on a wide variety of projects, with a focus on neural networks and AI.
+I'm Rafa, a Physics and CompSci graduate working as a Python teacher in Singapore. I'm currently working on a wide variety of projects, with a focus on neural networks and AI.
 
 ## Tech Stack
 
