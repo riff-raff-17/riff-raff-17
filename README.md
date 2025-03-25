@@ -2,7 +2,7 @@
 
 I'm Rafa, a Physics and CompSci graduate working as a Python teacher in Singapore. I'm currently working on a wide variety of projects, with a focus on neural networks and AI.
 
-## Tech Stack
+## 🖥️ Tech Stack
 
 I mostly use:
 
@@ -22,7 +22,7 @@ I mostly use:
 <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Utilities and Platforms" />
 
 
-## Experience
+## 🎓 Experience
 
 ### Bachelor of Science (Hons) @ Yale-NUS College
 
